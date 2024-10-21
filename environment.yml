@@ -1,0 +1,9 @@
+name: conways
+channels:
+  - defaults
+dependencies:
+  - jupyterlab=4.2.5
+  - matplotlib=3.9.2
+  - numpy=1.26.4
+  - python=3.11.9
+  - scikit-learn
